@@ -1,4 +1,4 @@
-# # 🧩 Puzzle Game
+#  🧩 Puzzle Game
 
 Тестовое задание, выполненное на Unity.
 
